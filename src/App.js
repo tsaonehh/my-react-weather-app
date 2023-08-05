@@ -7,13 +7,13 @@ export default function App() {
       <h1>Weather App</h1>
       <footer>
         This project was coded by{" "}
-        <a href="https://meek-cendol-e5e18a.netlify.app" target="_blank">
+        <a href="https://meek-cendol-e5e18a.netlify.app" target="_blank" rel="nonreferrer">
           Tsaone W Bejile
         </a>
         {" "}and is{" "}
         <a
           href="https://github.com/tsaonehh/my-react-weather-app"
-          target="_blank"
+          target="_blank" rel="nonreferrer"
         >
           open-sourced on GitHub
         </a>
