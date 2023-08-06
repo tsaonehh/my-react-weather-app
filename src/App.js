@@ -1,5 +1,4 @@
-
-import './App.css';
+import "./App.css";
 
 export default function App() {
   return (
@@ -7,13 +6,18 @@ export default function App() {
       <h1>Weather App</h1>
       <footer>
         This project was coded by{" "}
-        <a href="https://meek-cendol-e5e18a.netlify.app" target="_blank" rel="nonreferrer">
+        <a
+          href="https://meek-cendol-e5e18a.netlify.app"
+          target="_blank"
+         
+        >
           Tsaone W Bejile
-        </a>
-        {" "}and is{" "}
+        </a>{" "}
+        and is{" "}
         <a
           href="https://github.com/tsaonehh/my-react-weather-app"
-          target="_blank" rel="nonreferrer"
+          target="_blank"
+          
         >
           open-sourced on GitHub
         </a>
@@ -21,4 +25,3 @@ export default function App() {
     </div>
   );
 }
-
