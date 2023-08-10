@@ -7,17 +7,21 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-       
         <Weather defaultCity="Gaborone" />
         <footer>
           This project was coded by{" "}
-          <a href="https://meek-cendol-e5e18a.netlify.app" target="_blank">
+          <a
+            href="https://meek-cendol-e5e18a.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
             Tsaone W Bejile
           </a>{" "}
           and is{" "}
           <a
             href="https://github.com/tsaonehh/my-react-weather-app"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on GitHub
           </a>
