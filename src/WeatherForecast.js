@@ -27,6 +27,8 @@ export default function WeatherForecast(props) {
                     <WeatherForecastDay data={dailyForecast} />
                   </div>
                 );
+                } else {
+                    return null;
                 }
             })}
         </div>
@@ -40,6 +42,7 @@ export default function WeatherForecast(props) {
 
     axios.get(apiUrl).then(handleResponse);
 
+    return null;
     }
     
 }
