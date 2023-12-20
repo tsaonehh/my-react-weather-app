@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This is a react project for a weather app.
+Get weather updates for anywhere around
+the world in real time on this app.
+It is also very user friendly.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
